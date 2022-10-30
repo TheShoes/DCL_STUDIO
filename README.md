@@ -1,6 +1,8 @@
 # DCL_STUDIO
 
 IMPORTANT:: <br>
+USE UNITY 2020.3.34f1. <br>
+
 Have chrome as default browser others might work but you need to do this  <br>
 https://github.com/decentraland/explorer-desktop/issues/215 <br>
 essentially just run  <br>
