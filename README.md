@@ -1,6 +1,6 @@
 # DCL_STUDIO
 
-NOTE:: <br>
+IMPORTANT:: <br>
 Have chrome as default browser others might work but you need to do this  <br>
 https://github.com/decentraland/explorer-desktop/issues/215 <br>
 essentially just run  <br>
