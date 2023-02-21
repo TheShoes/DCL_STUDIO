@@ -3,6 +3,8 @@
 IMPORTANT:: <br>
 USE UNITY 2020.3.34f1. NOT WHATS IN THE VIDEO<br>
 
+Now use https://github.com/decentraland/unity-renderer instead of https://github.com/decentraland/explorer-desktop
+
 Have chrome as default browser others might work but you need to do this  <br>
 https://github.com/decentraland/explorer-desktop/issues/215 <br>
 essentially just run  <br>
